@@ -1,0 +1,3 @@
+n=[21,34,23,45,67]
+n.reverse()
+print("reversed list",n)
